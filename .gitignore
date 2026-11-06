@@ -1,5 +1,8 @@
-# dati scaricati dall'harvester
+# dati scaricati
 sitap/
-# ambiente virtuale Python
+output/
+# configurazione locale
+.env
+# ambiente Python
 .venv/
 __pycache__/
